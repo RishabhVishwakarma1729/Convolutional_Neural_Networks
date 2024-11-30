@@ -60,9 +60,9 @@ The MNIST dataset contains grayscale images of handwritten digits ranging from 0
 
 ## **📈 Performance**
 
-- **Training Accuracy**: ~98.5%
-- **Validation Accuracy**: ~98%
-- **Test Accuracy**: ~98%
+- **Training Accuracy**: ~99%
+- **Validation Accuracy**: ~99%
+- **Test Accuracy**: ~99%
 
 ---
 
@@ -72,7 +72,7 @@ The MNIST dataset contains grayscale images of handwritten digits ranging from 0
    The CNN achieves excellent accuracy on both training and test data.
 
 2. **Misclassifications**:  
-   Some digits, such as `5` and `6`, are occasionally misclassified due to handwriting ambiguities.
+   Some digits, such as `3` and `8`, are occasionally misclassified due to handwriting ambiguities.
 
 3. **Potential Improvements**:  
    - Data augmentation to make the model robust to variations.
