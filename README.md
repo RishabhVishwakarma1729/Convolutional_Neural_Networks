@@ -23,7 +23,7 @@ This project focuses on building and evaluating a **Convolutional Neural Network
   - Visualize confusion matrix and misclassified examples.
 
 - **Visualization:**
-  - Display sample predictions using both Matplotlib and OpenCV.
+  - Display sample predictions using Matplotlib.
   - Highlight correct and incorrect predictions with labels.
 
 ---
