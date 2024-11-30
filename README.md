@@ -86,12 +86,3 @@ The MNIST dataset contains grayscale images of handwritten digits ranging from 0
 - **Regularization**: Dropout layers prevent overfitting, especially on small datasets.
 - **EDA Importance**: Visualizing the dataset helps identify challenges and potential preprocessing needs.
 
----
-
-## **⚙️ Installation and Usage**
-
-### **Clone the Repository**
-```bash
-git clone https://github.com/your-username/mnist-classification.git
-cd mnist-classification
-
